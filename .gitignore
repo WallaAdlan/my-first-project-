@@ -100,7 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
-# mypy
+# mypyw
 .mypy_cache/
 
-print ("  HELLO WORD ") * 5
+print ("  HELLO WORD ")
+print (" that's fun ")
