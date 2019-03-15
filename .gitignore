@@ -105,3 +105,4 @@ venv.bak/
 
 print ("  HELLO WORD ")
 print (" that's fun ")
+print 5+6
